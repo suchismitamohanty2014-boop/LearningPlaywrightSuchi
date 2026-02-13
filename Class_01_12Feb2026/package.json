@@ -1,0 +1,13 @@
+{
+  "name": "learning-playwright-suchi",
+  "version": "1.0.0",
+  "description": "Playwright examples",
+  "main": "01_Program.js",
+  "scripts": {
+    "start": "node 01_Program.js",
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "keywords": ["playwright"],
+  "author": "Suchi",
+  "license": "MIT"
+}
